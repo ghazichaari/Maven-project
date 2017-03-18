@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLooking="true" path="/project-core">
+  <ResourceLink global="jdbc/project" name="jdbc/project" override="false" type="javax.sql.DataSource"/>
+</Context>

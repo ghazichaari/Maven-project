@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoints version="2.0" xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime">
+  <endpoint implementation="com.project.exemple.service.MedecinEventWS" name="MedecinEventWS" url-pattern="/MedecinEventWS"/>
+  <endpoint implementation="com.project.exemple.service.AnalyseEventWS" name="AnalyseEventWS" url-pattern="/AnalyseEventWS"/>
+  <endpoint implementation="com.project.exemple.service.LaboEventWS" name="LaboEventWS" url-pattern="/LaboEventWS"/>
+</endpoints>
